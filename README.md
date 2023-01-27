@@ -1,8 +1,10 @@
-👋 Hi, I’m Paul @Liferenko
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liferenko&count_private=true&show_icons=true&show_icons=true&theme=transparent)
 
-👀 I’m interested in hotdogs (ketchup, mayo and mustard pls), Erlang/Elixir, one-backpack life and something else. 
+Hi, I’m Paul @Liferenko
 
-🌱 I’m currently learning Erlang, OTP and AWS.
+Yep, I’m up for hotdogs (ketchup, mayo and mustard pls), Erlang/Elixir, one-backpack life and this beep-boop-boop-bop song (). 
+
+I’m currently learning Erlang, OTP and AWS.
 
 📫 How to reach me: 
 - https://liferenko.t.me
