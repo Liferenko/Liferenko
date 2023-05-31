@@ -4,7 +4,7 @@ Hi, I’m Paul @Liferenko
 
 Yep, I’m up for hotdogs (ketchup, mayo and mustard pls), Erlang/Elixir, one-backpack life and this beep-boop-boop-bop song (). 
 
-I’m currently learning Erlang, OTP and AWS.
+I’m currently learning Rust, Erlang's OTP and AWS.
 
 📫 How to reach me: 
 - https://liferenko.t.me
