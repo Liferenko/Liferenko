@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liferenko&count_private=true&show_icons=true&show_icons=true&theme=transparent)
 
-Hi, I’m Paul @Liferenko
+Hi, I’m Paul Liferenko
 
 Yep, I’m up for hotdogs (ketchup, mayo and mustard pls), Erlang/Elixir, one-backpack life and this beep-boop-boop-bop song (). 
 
